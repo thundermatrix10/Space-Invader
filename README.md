@@ -1,7 +1,7 @@
 # Space Invader Game
 
 ## Description
-A classic Space Invader game implemented in Python using the Pygame library and Object-Oriented Programming (OOP) principles.
+A classic space shooter game implemented in Python using the Pygame library and Object-Oriented Programming (OOP) principles.
 
 ## Features
 Player Controls:
